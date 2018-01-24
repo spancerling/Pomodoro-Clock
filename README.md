@@ -1,2 +1,2 @@
 # Pomodoro-Clock
-free code camp mission
+a free code camp mission
