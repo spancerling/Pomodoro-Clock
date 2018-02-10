@@ -29,7 +29,9 @@ body{
 .clock_time {
   font-size: 12em;
 }
-
+.clock_reset {
+  display: none;
+}
 .btn-control {
   margin-top: 50px;
   margin-right: 40px;
